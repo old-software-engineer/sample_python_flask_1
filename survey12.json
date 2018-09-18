@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "body": "What is your full name?",
+      "type": "recording"
+    },
+    {
+      "body": "what is your age.",
+      "type": "recording"
+    },
+    {
+      "body": "Please type one for english or type two for mathmetics test",
+      "type": "numeric"
+    },
+    {
+      "body": "What is two plus two?",
+      "type": "recording"
+    },
+    {
+      "body": "what is The spelling of test",
+      "type": "recording"
+    },
+    {
+      "body": "Do you like chocolate? Please answer in yes or no",
+      "type": "text"
+    },
+    {
+      "body": "Why Don't You like it?",
+      "type": "text"
+    },
+    {
+      "body": "I like chocolate too",
+      "type": "text"
+    }
+  ],
+  "title": "ivr"
+}
